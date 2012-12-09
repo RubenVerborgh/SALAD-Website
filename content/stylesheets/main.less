@@ -1,7 +1,7 @@
 @import "html5reset";
 
 @green: #5A9117;
-@red: #c20a32;
+@red: #d10012;
 
 html {
   margin: 10px;
@@ -21,7 +21,7 @@ header {
     font-size: 4em;
     color: @green;
     float: left;
-    margin-right: 10px;
+    margin-right: 8px;
     line-height: .9;
     letter-spacing: 3px;
   }
@@ -62,5 +62,14 @@ header {
     width: 1390px;
     height: 1390px;
     margin-left: -1670px;
+  }
+
+  &:after {
+    display: block;
+    content: " ";
+    background: url(/images/tomatoes.jpg) no-repeat;
+    width: 489px;
+    height: 300px;
+    margin: -800px 0 0 300px;
   }
 }
