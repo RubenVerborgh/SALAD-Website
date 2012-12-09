@@ -4,10 +4,19 @@
     <meta charset="utf-8">
     <title><%= @item[:title] %> - SALAD2013</title>
     <link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+    <link href='http://fonts.googleapis.com/css?family=Domine:400,700' rel='stylesheet'>
   </head>
   <body>
     <header>
-      <h1>SALAD2013</h1>
+      <hgroup>
+        <h1>SALAD2013</h1>
+        <h2>
+          ESWC2013 workshop
+          <br>
+          May 26 or 27, 2013
+        </h2>
+        <h3>Services and Applications over Linked APIs and Data</h3>
+      </hgroup>
     </header>
     <div id="main">
       <%= yield %>

@@ -1,1 +1,41 @@
 @import "html5reset";
+
+@green: #5A9117;
+@red: #c20a32;
+
+html {
+  margin: 10px;
+}
+
+body {
+  font-family: 'Domine', serif;
+  line-height: 1.3;
+  max-width: 800px;
+  margin: 10px auto;
+}
+
+header {
+  margin: 0 0 2em;
+
+  h1 {
+    font-size: 4em;
+    color: @green;
+    float: left;
+    margin-right: 10px;
+    line-height: .9;
+    letter-spacing: 3px;
+  }
+  h2 {
+    font-size: 1.2em;
+    font-weight: normal;
+    color: @red;
+    padding-top: .1em;
+    line-height: 1.4;
+  }
+  h3 {
+    font-size: 1.45em;
+    color: @green;
+    clear: left;
+    line-height: 1;
+  }
+}
