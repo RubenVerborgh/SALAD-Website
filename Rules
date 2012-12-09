@@ -4,6 +4,9 @@ compile '/stylesheets/*' do
   filter :less
 end
 
+compile '/humans' do
+end
+
 compile '*' do
   unless item.binary?
     filter :erb
@@ -14,6 +17,10 @@ end
 
 route '/stylesheets/main' do
   '/stylesheets/main.css'
+end
+
+route '/humans' do
+  '/humans.txt'
 end
 
 route '*' do

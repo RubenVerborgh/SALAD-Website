@@ -15,7 +15,7 @@ body {
 }
 
 header {
-  margin: 0 0 2em;
+  margin: 2em 0;
 
   h1 {
     font-size: 4em;
@@ -37,5 +37,30 @@ header {
     color: @green;
     clear: left;
     line-height: 1;
+  }
+}
+
+#background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+
+#decoration {
+  display: block;
+  width: 1px;
+  margin: 0 auto;
+
+  &:before {
+    display: block;
+    content: " ";
+    background: url(/images/lettuce.jpg) no-repeat;
+    width: 1390px;
+    height: 1390px;
+    margin-left: -1670px;
   }
 }
