@@ -1,0 +1,27 @@
+#!/usr/bin/env ruby
+
+compile '/stylesheets/*' do
+  filter :less
+end
+
+compile '*' do
+  unless item.binary?
+    filter :erb
+    filter :kramdown, :auto_ids => false
+    layout 'default'
+  end
+end
+
+route '/stylesheets/main' do
+  '/stylesheets/main.css'
+end
+
+route '*' do
+  if item.binary?
+    item.identifier.chop + '.' + item[:extension]
+  else
+    item.identifier + 'index.html'
+  end
+end
+
+layout '*', :erb
