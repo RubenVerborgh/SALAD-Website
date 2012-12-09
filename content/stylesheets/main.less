@@ -3,6 +3,8 @@
 @green: #5A9117;
 @red: #d10012;
 
+@side-margin: 20px;
+
 html {
   margin: 10px;
 }
@@ -14,30 +16,70 @@ body {
   margin: 10px auto;
 }
 
+a {
+  color: @green;
+
+  &:hover {
+    color: @red;
+  }
+}
+
 header {
-  margin: 2em 0;
+  margin: 2em 0 1em;
+  padding: 1em @side-margin 0;
+  border-top: 4px solid;
+  color: @green;
 
   h1 {
     font-size: 4em;
-    color: @green;
     float: left;
     margin-right: 8px;
     line-height: .9;
     letter-spacing: 3px;
   }
   h2 {
+    color: @red;
     font-size: 1.2em;
     font-weight: normal;
-    color: @red;
     padding-top: .1em;
     line-height: 1.4;
   }
   h3 {
     font-size: 1.45em;
-    color: @green;
     clear: left;
     line-height: 1;
   }
+}
+
+nav {
+  margin: 1em 0 2em;
+  padding: .5em @side-margin;
+  border-top: 2px solid @green;
+  border-bottom: 3px solid @green;
+  color: @green;
+
+  li {
+    display: inline;
+    font-size: 1.5em;
+    font-variant: small-caps;
+
+    &:after {
+      content: "◆";
+      margin: 0 20px;
+    }
+
+    &:last-child:after {
+      content: "";
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+#main {
+  padding: 0 @side-margin;
 }
 
 #background {

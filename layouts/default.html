@@ -18,7 +18,18 @@
         <h3>Services and Applications over Linked APIs and Data</h3>
       </hgroup>
     </header>
+    <nav>
+      <ul>
+        <% @items.find_all{|c| c[:extension] =~ /^md/}.
+                  sort{|a,b| a[:filename] <=> b[:filename]}.
+                  sort{|a,b| (a[:order] || 10) <=> (b[:order] || 10)}.
+                  each do |page| %>
+          <li<%= @item == page ? ' class="active"' : '' %>><%= link_to(page[:title], page.reps[0]) %></li>
+        <% end %>
+      </ul>
+    </nav>
     <div id="main">
+      <h1><%= @item[:title] %></h1>
       <%= yield %>
     </div>
     <footer>
