@@ -1,6 +1,6 @@
 @import "html5reset";
 
-@green: #5A9117;
+@green: #588f15;
 @red: #d10012;
 
 @side-margin: 20px;
@@ -12,7 +12,7 @@ html {
 body {
   font-family: 'Domine', serif;
   font-size: 11pt;
-  line-height: 1.7;
+  line-height: 1.8em;
   max-width: 800px;
   margin: 10px auto;
 }
@@ -21,6 +21,32 @@ a {
   color: @green;
 
   &:hover {
+    color: @red;
+  }
+}
+
+em {
+  font-style: normal;
+  font-weight: bold;
+  color: @green;
+}
+
+strong {
+  color: @red;
+}
+
+hr {
+  border: none;
+  &:before {
+    margin: .4em 0 .2em;
+    content: "~~~~~";
+    display: block;
+    text-align: center;
+    font-size: 5em;
+    line-height: 0;
+    color: @green;
+  }
+  &:hover:before {
     color: @red;
   }
 }
@@ -57,7 +83,7 @@ header {
 
 nav {
   margin: 1em 0 2em;
-  padding: .3em @side-margin;
+  padding: .6em @side-margin .3em;
   border-top: 2px solid @green;
   border-bottom: 3px solid @green;
   color: @green;
@@ -69,7 +95,7 @@ nav {
 
     &:after {
       content: "◆";
-      margin: 0 20px;
+      margin: 0 32px;
     }
 
     &:last-child:after {
@@ -78,6 +104,11 @@ nav {
 
     a {
       text-decoration: none;
+    }
+    &.active a {
+      border-bottom: 1px solid;
+      &:before, &:after {
+      }
     }
   }
 }
@@ -89,18 +120,43 @@ nav {
   h1 {
     font-size: 2em;
     color: @green;
+    letter-spacing: -1px;
+    margin: 1.5em 0 .5em;
 
     &:before, &:after {
       content: " ~ ";
     }
   }
+
+  h2 {
+    font-size: 1.5em;
+    color: @red;
+  }
+
   p {
     margin-bottom: 1em;
+  }
+
+  ol, ul {
+    margin: 0 0 1em @side-margin;
+  }
+
+  ul {
+    li {
+      list-style: none;
+
+      &:before {
+        content: "●";
+        color: @green;
+        position: absolute;
+        margin-left: -20px;
+      }
+    }
   }
 }
 
 footer {
-  margin: 2em 0 1em;
+  margin: 2em 0 2em;
   padding: .5em @side-margin;
   border-top: 2px solid @green;
   border-bottom: 3px solid @green;
@@ -137,6 +193,8 @@ footer {
     background: url(/images/tomatoes.jpg) no-repeat;
     width: 489px;
     height: 300px;
-    margin: -800px 0 0 300px;
+    margin: -800px 0 0 320px;
+    transform: rotate(-15deg);
+    -webkit-transform: rotate(-15deg);
   }
 }
