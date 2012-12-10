@@ -68,8 +68,9 @@ header {
     color: @red;
     font-size: 1.2em;
     font-weight: normal;
-    padding-top: .1em;
     line-height: 1.4;
+    white-space: nowrap;
+    float: left;
   }
   h3 {
     font-size: 1.45em;
@@ -94,7 +95,9 @@ nav {
     font-variant: small-caps;
 
     &:after {
-      content: "◆";
+      content: "♦";
+      font-size: .6em;
+      vertical-align: middle;
       margin: 0 32px;
     }
 
@@ -153,7 +156,8 @@ nav {
       list-style: none;
 
       &:before {
-        content: "●";
+        content: "•";
+        font-size: 1.6em;
         color: @green;
         position: absolute;
         margin-left: -20px;
@@ -203,5 +207,52 @@ footer {
     margin: -800px 0 0 320px;
     transform: rotate(-15deg);
     -webkit-transform: rotate(-15deg);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  html {
+    margin: 0;
+  }
+  body {
+    font-size: 10pt;
+  }
+  header {
+    h2 {
+      br {
+        display: none;
+      }
+    }
+  }
+  nav {
+    li:after {
+      content: "";
+      margin: 0 4px;
+    }
+  }
+  #decoration {
+    display: none;
+  }
+}
+
+@media only screen and (max-height: 700px) {
+  #decoration {
+    &:after {
+      margin-top: -950px;
+    }
+  }
+}
+
+@media only screen and (max-height: 500px) {
+  body {
+    font-size: 10pt;
+  }
+  header {
+    margin-top: 1em;
+  }
+  #decoration {
+    &:after {
+      display: none;
+    }
   }
 }
