@@ -1,7 +1,10 @@
 #!/usr/bin/env ruby
 
+compress = File.exists? 'COMPRESS'
+
 compile '/stylesheets/*' do
   filter :less
+  filter :rainpress if compress
 end
 
 compile '/humans' do
@@ -12,6 +15,7 @@ compile '*' do
     filter :erb
     filter :kramdown, :auto_ids => false
     layout 'default'
+    filter :html_compressor if compress
   end
 end
 
