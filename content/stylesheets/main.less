@@ -122,6 +122,7 @@ nav {
 
   h1 {
     font-size: 2em;
+    line-height: 1.1em;
     color: @green;
     letter-spacing: -1px;
     margin: 1em 0 .5em;
@@ -246,6 +247,7 @@ footer {
 @media only screen and (max-height: 500px) {
   body {
     font-size: 10pt;
+    line-height: 1.6em;
   }
   header {
     margin-top: 1em;
@@ -253,6 +255,34 @@ footer {
   #decoration {
     &:after {
       display: none;
+    }
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  header {
+    h1 {
+      font-size: 2em;
+    }
+    h2 {
+      white-space: normal;
+      font-size: 1em;
+    }
+  }
+  #main {
+    hyphens: auto;
+    -webkit-hyphens: auto;
+
+    h1, h2, h3 {
+      font-size: 1.2em;
+      &:before, &:after {
+        content: "";
+      }
+    }
+  }
+  nav {
+    li {
+      font-size: 1.2em;
     }
   }
 }
