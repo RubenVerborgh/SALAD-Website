@@ -38,7 +38,7 @@ strong {
 hr {
   border: none;
   &:before {
-    margin: .4em 0 .2em;
+    margin: .5em 0 .2em;
     content: "~~~~~";
     display: block;
     text-align: center;
@@ -131,6 +131,7 @@ nav {
   h2 {
     font-size: 1.5em;
     color: @red;
+    margin: .5em 0 .2em;
   }
 
   h3 {
@@ -140,7 +141,7 @@ nav {
 
   h1, h2, h3 {
     &:before, &:after {
-      content: " ~ ";
+      content: " ~ ";
     }
   }
 
@@ -157,11 +158,11 @@ nav {
       list-style: none;
 
       &:before {
-        content: "•";
+        content: "~";
         font-size: 1.6em;
         color: @green;
         position: absolute;
-        margin-left: -20px;
+        margin-left: -16px;
       }
     }
   }

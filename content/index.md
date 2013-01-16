@@ -1,7 +1,7 @@
 ---
 title: Bonjour
 order: 0
-header: Services and Applications over Linked APIs and Data
+header: Services and Applications over Linked APIs and Data
 ---
 
 Welcome to the homepage of the SALAD2013 ESWC workshop.
