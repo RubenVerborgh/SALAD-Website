@@ -23,6 +23,7 @@ title: Chefs
 - *Jacek Kopecký*, KMi, Open University, UK
 - *Erik Mannens*, iMinds – Multimedia Lab – Ghent University
 - *Barry Norton*, Ontotext, UK
+- *Carlos Pedrinaci*, KMi, Open University, UK
 - *Axel Polleres*, Siemens, Australia
 - *Sebastian Speiser*, Karlsruhe Institute of Technology, Germany
 - *Jürgen Umbrich*, DERI Galway, Ireland
