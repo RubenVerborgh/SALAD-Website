@@ -14,7 +14,7 @@ What?
 : novel ideas, concepts, and applications that combine Linked Data and Web APIs / services
 
 When?
-: ESWC workshop on May 26/27, 2013 – submission deadline: March 4, 2013
+: ESWC workshop on May 26, 2013 – submission deadline: March 4, 2013
 
 How?
 : an interactive workshop with lots of discussion, accepted paper presentations and keynote speaker [Mike Amundsen](http://amundsen.com/blog/)
@@ -64,4 +64,4 @@ Camera ready
 : April 15, 2013
 
 Workshop
-: May 26/27, 2013
+: May 26, 2013
