@@ -17,7 +17,7 @@ When?
 : ESWC workshop on May 26, 2013 – submission deadline: March 4, 2013
 
 How?
-: an interactive workshop with lots of discussion, accepted paper presentations and keynote speaker [Mike Amundsen](http://amundsen.com/blog/)
+: an interactive workshop with lots of discussion, accepted paper presentations and [keynote](/aperitif/)
 
 Where?
 : Montpellier, France at the [ESWC conference](http://2013.eswc-conferences.org/)
