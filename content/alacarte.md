@@ -14,7 +14,7 @@ What?
 : novel ideas, concepts, and applications that combine Linked Data and Web APIs / services
 
 When?
-: ESWC workshop on May 26, 2013 – submission deadline: March 11, 2013
+: ESWC workshop on May 26, 2013 – submission deadline: March 15, 2013
 
 How?
 : an interactive workshop with lots of discussion, accepted paper presentations and [keynote](/aperitif/)
@@ -55,7 +55,7 @@ Accepted papers will be published as CEUR workshop proceedings. Selected papers 
 
 ### Preparation time
 Submission
-: <del>March 4</del> March 11, 2013 (flexible)
+: <del>March 4</del> March 15, 2013
 
 Notification
 : April 1, 2013
