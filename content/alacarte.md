@@ -55,7 +55,7 @@ Accepted papers will be published as CEUR workshop proceedings. Selected papers 
 
 ### Preparation time
 Submission
-: <del>March 4</del> March 11, 2013
+: <del>March 4</del> March 11, 2013 (flexible)
 
 Notification
 : April 1, 2013
