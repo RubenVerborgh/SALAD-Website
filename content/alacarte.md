@@ -54,11 +54,11 @@ Your submission can be posted through [EasyChair](https://www.easychair.org/conf
 Accepted papers will be published as CEUR workshop proceedings. Selected papers will be included in a separate ESWC workshop papers volume.
 
 ### Preparation time
-Submission
-: <del>March 4</del> March 15, 2013
+<del>Submission</del>
+: <del>March 15, 2013</del>
 
-Notification
-: April 1, 2013
+<del>Notification</del>
+: <del>April 1, 2013</del>
 
 Camera ready
 : April 15, 2013
