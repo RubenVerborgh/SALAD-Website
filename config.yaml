@@ -16,6 +16,11 @@ data_sources:
     items_root: /
     layouts_root: /
     allow_periods_in_identifiers: false
+  -
+    type: bibtex
+    items_root: /papers
+    config:
+      path: assets/
 
 watcher:
   dirs_to_watch: [ 'content', 'layouts', 'lib' ]

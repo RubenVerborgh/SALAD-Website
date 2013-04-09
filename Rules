@@ -27,6 +27,10 @@ route '/humans' do
   '/humans.txt'
 end
 
+route '/papers/*' do
+  nil
+end
+
 route '*' do
   if item.binary?
     item.identifier.chop + '.' + item[:extension]
