@@ -1,33 +1,34 @@
 ---
 title: Menu
 order: 3
+class: menu
 ---
 
-## Keynote
-[Autonomous Agents on the Web: Beyond Linking and Meaning](/aperitif/)
-<br>
-by Mike Amundsen, Principal API Architect for Layer 7 Technologies
+## Program
 
-## Accepted papers
-<ul>
-<%
-  papers = @items.find_all{ |i| i.identifier =~ /^\/papers\/.+/ }
-  papers.each do |paper|
-%>
-<li itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <span itemprop="name"><%= h paper[:title] %></span>
-  <%=
-    authors = paper[:author]
-    authors.to_a.map{ |a| h "#{a.first} #{a.prefix} #{a.last} #{a.suffix}".strip }.
-      map{ |a| "<span itemprop='author'>#{a}</span>" }.
-      join(authors.length <= 2 ? ' and ' : ', ').
-      sub(/, ([^,]+)$/, ', and \1')
-  %>
-</li>
-<%
-  end
-%>
-</ul>
+9:30
+: Welcome
+
+9:35
+: [Autonomous Agents on the Web: Beyond Linking and Meaning](/aperitif/)<br>
+Keynote by Mike Amundsen, Principal API Architect for Layer 7 Technologies
+
+10:30
+: <%= show_paper 'salad2013_1' %>
+: <%= show_paper 'salad2013_2' %>
+: <%= show_paper 'salad2013_3' %>
+
+13:00
+: Lunch break
+
+14:30
+: <%= show_paper 'salad2013_5' %>
+: <%= show_paper 'salad2013_6' %>
+: <%= show_paper 'salad2013_7' %>
+: <%= show_paper 'salad2013_8' %>
+
+16:30
+: Coffee break
 
 ## Target audience
 We welcome *people from different fields*,

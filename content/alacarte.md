@@ -1,6 +1,6 @@
 ---
 title: A la carte
-order: 1
+order: 5
 ---
 
 ## Call for papers

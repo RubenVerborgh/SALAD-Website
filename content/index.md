@@ -5,6 +5,7 @@ header: Services and Applications over Linked APIs and Data
 ---
 
 Welcome to the homepage of the SALAD2013 ESWC workshop.
+Check out the [Program](/menu/).
 
 ## The challenge
 
