@@ -12,5 +12,6 @@ def show_paper id
         map{ |a| "<span itemprop='author'>#{a}</span>" }.
         join(authors.length <= 2 ? ' and ' : ', ').
         sub(/, ([^,]+)$/, ', and \1') +
+  (paper[:slides] ? " <span class='details'><a href='#{h paper[:slides]}'>slides</a></span>" : '') +
   '</dd>'
 end
