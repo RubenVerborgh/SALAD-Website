@@ -14,6 +14,9 @@ class: menu
 Keynote by Mike Amundsen, Principal API Architect for Layer 7 Technologies
 
 10:30
+: Coffee break
+
+11:00
 : <%= show_paper 'salad2013_1' %>
 : <%= show_paper 'salad2013_2' %>
 : <%= show_paper 'salad2013_3' %>
