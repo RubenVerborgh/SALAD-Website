@@ -21,17 +21,22 @@ Keynote by Mike Amundsen, Principal API Architect for Layer 7 Technologies
 : <%= show_paper 'salad2013_2' %>
 : <%= show_paper 'salad2013_3' %>
 
-13:00
+12:30
 : Lunch break
 
-14:30
+14:00
 : <%= show_paper 'salad2013_5' %>
 : <%= show_paper 'salad2013_6' %>
 : <%= show_paper 'salad2013_7' %>
+
+15:30
+: Coffee break
+
+16:00
 : <%= show_paper 'salad2013_8' %>
 
 16:30
-: Coffee break
+: *Interactive discussion*
 
 ## Target audience
 We welcome *people from different fields*,
