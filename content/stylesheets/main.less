@@ -244,6 +244,19 @@ footer {
   color: @green;
 }
 
+.details {
+  a {
+    font-weight: normal;
+
+    &:before {
+      content: "(";
+    }
+    &:after {
+      content: ")";
+    }
+  }
+}
+
 @media only screen and (max-width: 600px) {
   html {
     margin: 0;

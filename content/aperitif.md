@@ -7,6 +7,8 @@ header: Keynote
 ## Autonomous Agents on the Web: Beyond Linking and Meaning
 *by Mike Amundsen, Principal API Architect for Layer 7 Technologies*
 
+View the [slides](/slides/keynote.pdf) of Mike's keynote.
+
 <img src="http://amundsen.com/images/mca-photos/Mike.jpg" class="photo" alt="[Photo of Mike Amundsen]" />
 
 Over the last 25 years, a rich ecosystem has been established for the human-driven Web. Successful protocols (HTTP), languages (HTML), and supporting services (DNS, etc.) all contribute to a vast and lively World Wide Web. Today it is relatively trivial to design and implement a Web-based solution. In some cases this can be done without any programming at all - just a bit of "glue" between existing services on the Web.

@@ -12,6 +12,9 @@ class: menu
 9:35
 : [Autonomous Agents on the Web: Beyond Linking and Meaning](/aperitif/)<br>
 Keynote by Mike Amundsen, Principal API Architect for Layer 7 Technologies
+<span class="details">
+  <a href="/slides/keynote.pdf">slides</a>
+</span>
 
 10:30
 : Coffee break
