@@ -4,6 +4,11 @@ order: 0
 header: Services and Applications over Linked APIs and Data
 ---
 
+The [Proceedings](http://ceur-ws.org/Vol-1056/)
+of the First Workshop on Services and Applications
+over Linked APIs and Data (#SALAD2013)
+have now been **published on CEUR** as Vol-1056.
+
 Welcome to the homepage of the SALAD2013 ESWC workshop.
 Check out the [Program](/menu/).
 
