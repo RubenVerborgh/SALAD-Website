@@ -1,6 +1,7 @@
 include Nanoc3::Helpers::LinkTo
 require 'nanoc/data_sources/bibtex_data_source'
 require 'erb'
+require 'html5small/nanoc'
 
 def show_paper id
   paper = @items["/papers/#{id}/"]
