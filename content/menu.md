@@ -5,41 +5,7 @@ class: menu
 ---
 
 ## Program
-
-9:30
-: Welcome
-
-9:35
-: [Autonomous Agents on the Web: Beyond Linking and Meaning](/aperitif/)<br>
-Keynote by Mike Amundsen, Principal API Architect for Layer 7 Technologies
-<span class="details">
-  <a href="/slides/keynote.pdf">slides</a>
-</span>
-
-10:30
-: Coffee break
-
-11:00
-: <%= show_paper 'salad2013_1' %>
-: <%= show_paper 'salad2013_2' %>
-: <%= show_paper 'salad2013_3' %>
-
-12:30
-: Lunch break
-
-14:00
-: <%= show_paper 'salad2013_5' %>
-: <%= show_paper 'salad2013_6' %>
-: <%= show_paper 'salad2013_7' %>
-
-15:30
-: Coffee break
-
-16:00
-: <%= show_paper 'salad2013_8' %>
-
-16:30
-: *Interactive discussion*
+To be determined.
 
 ## Target audience
 We welcome *people from different fields*,
