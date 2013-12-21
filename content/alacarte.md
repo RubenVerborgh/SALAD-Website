@@ -20,7 +20,7 @@ How?
 : an interactive workshop with lots of discussion, accepted paper presentations and [keynote](/aperitif/)
 
 Where?
-: Montpellier, France at the [ESWC conference](http://2014.eswc-conferences.org/)
+: Crete, Greece at the [ESWC conference](http://2014.eswc-conferences.org/)
 
 ### Recipe
 Current developments on the Web have been marked by the increased use and popularity of Linked Data and Web APIs. However, these two technologies remain mostly disjunct in terms of developing solutions and applications in an integrated way. Therefore, we aim to explore the possibilities of facilitating a better integration of Web APIs and Linked Data, thus enabling the harvesting and provisioning of data through applications and services on the Web. In particular, we focus on investigating how resources exposed via Web APIs can be used together with Web semantic data, as means for enabling a shared use and providing a basis for developing rich applications on top.
