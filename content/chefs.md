@@ -21,7 +21,7 @@ title: Chefs
 - *Geert-Jan Houben*, TU Delft, Netherlands
 - *Jacek Kopecký*, KMi, Open University, UK
 - *Erik Mannens*, iMinds – Multimedia Lab – Ghent University
-- *Barry Norton*, Ontotext, UK
+- *Barry Norton*, British Museum, UK
 - *Carlos Pedrinaci*, KMi, Open University, UK
 - *Axel Polleres*, Siemens, Australia
 - *Sebastian Speiser*, Karlsruhe Institute of Technology, Germany
