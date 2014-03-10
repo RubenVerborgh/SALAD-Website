@@ -50,6 +50,8 @@ We offer several opportunities to participate in SALAD:
 - food for thought: 1 page / slide / web page / image / movie
 
 Your submission can be posted through [EasyChair](https://www.easychair.org/conferences/?conf=salad2014) or [e-mailed](mailto:eswcsalad2013@gmail.com).
+<br>
+The template is [LNCS](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
 
 Accepted papers will be published as CEUR workshop proceedings. Selected papers will be included in a separate ESWC workshop papers volume.
 
