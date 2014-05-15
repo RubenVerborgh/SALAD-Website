@@ -10,7 +10,7 @@ class: menu
 : *Welcome*
 
 09:40
-: [Keynote – Steve Klabnik](/salad2014.linkedservices.org/aperitif/)
+: [Keynote – Pieter Colpaert](/aperitif/)
 
 10:30
 : Coffee Break
