@@ -19,6 +19,7 @@ title: Chefs
 - *Andreas Harth*, Karlsruhe Institute of Technology, Germany
 - *Katja Hose*, Aalborg University, Denmark
 - *Geert-Jan Houben*, TU Delft, Netherlands
+- *Kjetil Kjernsmo*, University of Oslo, Norway
 - *Jacek Kopecký*, KMi, Open University, UK
 - *Erik Mannens*, iMinds – Multimedia Lab – Ghent University
 - *Barry Norton*, British Museum, UK
