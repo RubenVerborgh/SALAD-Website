@@ -51,6 +51,9 @@ class: menu
 16:30
 : *Interactive discussion*
 
+19:30
+: *Workshop dinner (to be announced)*
+
 
 ## Target audience
 We welcome *people from different fields*,
