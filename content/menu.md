@@ -24,8 +24,8 @@ class: menu
 :  Chun Lu, Philippe Laublet and Milan Stankovic
 
 12:00
-: [Linked Personal Dataspaces](/papers/salad2014-3.pdf)
-: Laura Dragan and Markus Luczak-Roesch
+: [Understanding Personal Data as a Space – Learning from Dataspaces to Create Linked Personal Data](/papers/salad2014-3.pdf)
+: Laura Dragan, Markus Luczak-Roesch and Nigel Shadbolt
 
 12:30
 : *Interactive discussion*
