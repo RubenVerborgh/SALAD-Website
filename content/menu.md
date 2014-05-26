@@ -10,7 +10,7 @@ class: menu
 : *Welcome*
 
 09:40
-: [Keynote – Pieter Colpaert](/aperitif/)
+: [Keynote – Pieter Colpaert](/aperitif/) _([slides](/slides/salad2014-keynote.pdf))_
 
 10:30
 : Coffee Break
@@ -20,7 +20,7 @@ class: menu
 : Lionel Médini, Pierre-Antoine Champin, Michaël Mrissa and Amélie Cordier
 
 11:30
-: [Ricochet: Context and Complementarity-Aware, Ontology-Based POIs Recommender System](/papers/salad2014-2.pdf)
+: [Ricochet: Context and Complementarity-Aware, Ontology-Based POIs Recommender System](/papers/salad2014-2.pdf) _([slides](/slides/salad2014-2.pdf))_
 :  Chun Lu, Philippe Laublet and Milan Stankovic
 
 12:00
