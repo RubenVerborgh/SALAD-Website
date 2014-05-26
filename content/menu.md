@@ -16,7 +16,7 @@ class: menu
 : Coffee Break
 
 11:00
-: [Towards Semantic Resource Mashups](/papers/salad2014-1.pdf)
+: [Towards Semantic Resource Mashups](/papers/salad2014-1.pdf) _([slides](http://liris.cnrs.fr/~pchampin/2014/salad/))_
 : Lionel Médini, Pierre-Antoine Champin, Michaël Mrissa and Amélie Cordier
 
 11:30
