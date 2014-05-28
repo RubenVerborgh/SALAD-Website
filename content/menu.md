@@ -34,7 +34,7 @@ class: menu
 : Lunch
 
 14:30
-: [Semantic Restful APIs for Dynamic Data Sources](/papers/salad2014-4.pdf)
+: [Semantic Restful APIs for Dynamic Data Sources](/papers/salad2014-4.pdf) _([slides](/slides/salad2014-4.pdf))_
 : Felix Leif Keppmann and Steffen Stadtmüller
 
 15:00
@@ -42,7 +42,7 @@ class: menu
 : Barry Norton and Maciej Dziardziel
 
 15:30
-: [RESTful or RESTless - Current State of Today's Top Web APIs](/papers/salad2014-6.pdf)
+: [RESTful or RESTless - Current State of Today's Top Web APIs](/papers/salad2014-6.pdf) _([slides](/slides/salad2014-6.pdf))_
 : Frederik Bülthoff and Maria Maleshkova
 
 16:00
@@ -52,7 +52,7 @@ class: menu
 : *Interactive discussion*
 
 19:30
-: *Workshop dinner (to be announced)*
+: *Workshop dinner*
 
 
 ## Target audience
