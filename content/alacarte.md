@@ -14,13 +14,13 @@ What?
 : novel ideas, concepts, and applications that combine Linked Data and Web APIs / services
 
 When?
-: ESWC workshop on May 26, 2014 – submission deadline: March 15, 2014
+: ESWC workshop on May 31st or June 1st, 2015
 
 How?
 : an interactive workshop with lots of discussion, accepted paper presentations and [keynote](/aperitif/)
 
 Where?
-: Crete, Greece at the [ESWC conference](http://2014.eswc-conferences.org/)
+: Portorož, Slovenia at the [ESWC conference](http://2015.eswc-conferences.org/)
 
 ### Recipe
 Current developments on the Web have been marked by the increased use and popularity of Linked Data and Web APIs. However, these two technologies remain mostly disjunct in terms of developing solutions and applications in an integrated way. Therefore, we aim to explore the possibilities of facilitating a better integration of Web APIs and Linked Data, thus enabling the harvesting and provisioning of data through applications and services on the Web. In particular, we focus on investigating how resources exposed via Web APIs can be used together with Web semantic data, as means for enabling a shared use and providing a basis for developing rich applications on top.
@@ -49,7 +49,7 @@ We offer several opportunities to participate in SALAD:
 - demos: up to 2 pages
 - food for thought: 1 page / slide / web page / image / movie
 
-Your submission can be posted through [EasyChair](https://www.easychair.org/conferences/?conf=salad2014) or [e-mailed](mailto:eswcsalad2013@gmail.com).
+Your submission can be posted through [EasyChair](https://www.easychair.org/conferences/?conf=salad2015) or [e-mailed](mailto:eswcsalad2013@gmail.com).
 <br>
 The template is [LNCS](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0).
 
@@ -57,13 +57,13 @@ Accepted papers will be published as CEUR workshop proceedings. Selected papers 
 
 ### Preparation time
 Submission
-: March 21, 2014
+: March 21, 2015
 
 Notification
-: April 4, 2014
+: April 4, 2015
 
 Camera ready
-: April 15, 2014
+: April 15, 2015
 
 Workshop
-: May 26, 2014
+: May 31st or June 1st, 2015

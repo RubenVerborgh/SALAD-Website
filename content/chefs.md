@@ -1,13 +1,16 @@
 ---
 title: Chefs
+order: 4
 ---
 ## Organizing committee
 - [Maria Maleshkova](mailto:maria.maleshkova@kit.edu), Karlsruhe Institute of Technology
 - [Ruben Verborgh](mailto:ruben.verborgh@ugent.be), iMinds – Multimedia Lab – Ghent University
 - [Steffen Stadtmüller](mailto:steffen.stadtmueller@kit.edu), Karlsruhe Institute of Technology
-- [Pedro Szekely](mailto:pszekely@isi.edu), University of Southern California
 
 ## Program committee
+
+To be announced. Last year's committee:
+
 - *Sudhir Agarwal*, Stanford University, USA
 - *Jan Algermissen*, NORD Software Consulting
 - *José Luis Ambite*, University of Southern California, USA
