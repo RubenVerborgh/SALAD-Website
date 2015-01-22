@@ -57,13 +57,13 @@ Accepted papers will be published as CEUR workshop proceedings. Selected papers 
 
 ### Preparation time
 Submission
-: March 21, 2015
+: March 6, 2015
 
 Notification
-: April 4, 2015
+: April 3, 2015
 
 Camera ready
-: April 15, 2015
+: April 17, 2015
 
 Workshop
 : May 31st or June 1st, 2015
