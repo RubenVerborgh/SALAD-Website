@@ -14,7 +14,7 @@ What?
 : novel ideas, concepts, and applications that combine Linked Data and Web APIs / services
 
 When?
-: ESWC workshop on May 31st or June 1st, 2015
+: ESWC workshop on June 1st, 2015
 
 How?
 : an interactive workshop with lots of discussion, accepted paper presentations and [keynote](/aperitif/)
@@ -66,4 +66,4 @@ Camera ready
 : April 17, 2015
 
 Workshop
-: May 31st or June 1st, 2015
+: June 1st, 2015
