@@ -28,14 +28,14 @@ Current developments on the Web have been marked by the increased use and popula
 ### Shopping list
 The main goal of this workshop is to explore the possibilities of enabling a more integrated and automated use of Web APIs, given the context of the growing importance of Linked Data and applications, benefiting from the available resources. Relevant topics include:
 
-  - integrated use of Linked Data and Web APIs
-  - moving from individual APIs and data sets towards integrated solutions
-  - differences and parallels between Linked Data and Web APIs
-  - semantically discovering, searching, and browsing Web APIs
-  - describing Web APIs and Linked Data
-  - intelligent clients for Linked Data and APIs
-  - methods for automatically dealing with failures in Web APIs
-  - approaches for the creation of Web API directories
+- frameworks, methods, models and formats for describing Web APIs
+- design of distributed systems based on semantic API technology
+- overcoming performance issues in the interaction with APIs
+- development of intelligent and generic Web API clients
+- designing applications by connecting Web APIs and Linked Data for reading and writing
+- address scalability issues while dealing with large data volumes
+- business models for Linked Data and Web APIs
+- developing technologies for a sustainable, future-proof integrated Web API environment
 
 The above list is not exhaustive and we therefore actively encourage participants to be creative.
 A final goal is to provide future initiatives with the devised ideas and visions to stimulate innovation in this research area.

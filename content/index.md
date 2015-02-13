@@ -6,18 +6,23 @@ header: Services and Applications over Linked APIs and Data
 
 ## The challenge
 
-Current developments on the Web have been marked
-by the increased popularity of *Linked Data* and *Web APIs*.
-However, these two technologies remain mostly disjunct
-in terms of developing solutions and applications in an integrated way.
-Therefore, we aim to explore the possibilities
-of facilitating a *better integration* of Web APIs and Linked Data,
-thus enabling the *harvesting and provisioning of data*
-through applications and services on the Web.
-In particular, we focus on investigating how resources exposed via Web APIs
-can be used *together with Semantic Web data*,
-as means for enabling a shared use and providing
-a basis for *developing rich applications* on top.
+The World Wide Web has undergone significant changes,
+developing from a collection of a few interlinked static pages
+to a global ubiquitous platform
+for sharing, searching and browsing dynamic and customisable content,
+in a variety of different media formats.
+This transformation was triggered by the ever growing number of users and websites
+and continues to be supported by current developments
+such as the increased use and popularity of Linked Data and Web APIs.
+Unfortunately, despite some initial efforts and progress towards integrated use,
+these two technologies remain mostly disjunct in terms of developing solutions and applications.
+To this purpose, SALAD aims to explore the possibilities of facilitating
+a better fusion of Web APIs and Linked Data,
+thus enabling the harvesting and provisioning of data through applications and services on the Web.
+In particular, we focus on investigating how both static and dynamic resources
+(for example, sensor data or streams), exposed via interfaces on the Web,
+can be used together with semantic data,
+as a means for enabling a shared use and providing a basis for developing rich applications.
 
 ------
 
@@ -43,11 +48,13 @@ benefiting from the available resources.
 Relevant topics include:
 
 - **frameworks**, **methods**, **models** and **formats** for describing Web APIs
-- identifying the **essential building blocks** for enabling integrated and linked use of Web APIs
-- pinpointing **challenges** to move from individual Web APIs towards **integrated solutions**
-- capturing **added value** through the use of Web APIs, Linked Data and development of **client
-apps**
-- developing technologies for a **sustainable**, **future-proof** integrated Web API environment.
+- design of **distributed systems** based on semantic API technology
+- overcoming **performance issues** in the interaction with APIs
+- development of intelligent and generic **Web API clients**
+- designing applications by connecting **Web APIs and Linked Data** for reading and writing
+- addressing **scalability** issues while dealing with large data volumes
+- **business models** for Linked Data and Web APIs
+- developing technologies for a **sustainable**, **future-proof** integrated Web API environment
 
 The above list is not exhaustive and we therefore actively encourage participants to be *creative*.
 <br>
