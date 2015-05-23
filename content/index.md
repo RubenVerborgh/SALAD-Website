@@ -4,6 +4,8 @@ order: 0
 header: Services and Applications over Linked APIs and Data
 ---
 
+Read the [workshop proceedings](http://ceur-ws.org/Vol-1359/).
+
 ## The challenge
 
 The World Wide Web has undergone significant changes,

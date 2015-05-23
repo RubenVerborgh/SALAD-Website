@@ -4,6 +4,8 @@ order: 3
 class: menu
 ---
 
+[Workshop proceedings](http://ceur-ws.org/Vol-1359/)
+
 ## Program
 
 09:30
