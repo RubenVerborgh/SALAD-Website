@@ -27,8 +27,8 @@ class: menu
 : Felix Leif Keppmann, Maria Maleshkova, Andreas Harth
 
 12:00
-: [Linked Data Wrappers atop Yahoo's YQL](http://ceur-ws.org/Vol-1359/paper3.pdf)
-: Jon Iturrioz, Iker Azpeitia, Oscar Díaz
+: [A BASILar Approach for Building Web APIs on top of SPARQL Endpoints](http://ceur-ws.org/Vol-1359/paper4.pdf)
+: Enrico Daga, Luca Panziera, Carlos Pedrinaci
 
 12:30
 : Lunch
@@ -37,8 +37,8 @@ class: menu
 : *Keynote – Sergio Fernandez*
 
 15:00
-: [A BASILar Approach for Building Web APIs on top of SPARQL Endpoints](http://ceur-ws.org/Vol-1359/paper4.pdf)
-: Enrico Daga, Luca Panziera, Carlos Pedrinaci
+: [Linked Data Wrappers atop Yahoo's YQL](http://ceur-ws.org/Vol-1359/paper3.pdf)
+: Jon Iturrioz, Iker Azpeitia, Oscar Díaz
 
 15:30
 : Coffee Break
